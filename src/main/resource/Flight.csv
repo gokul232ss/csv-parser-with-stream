@@ -1,0 +1,10 @@
+id,name,departure,arrival,amount
+IA211 , Indigo Airliner , Coimbatore , London , 12000
+EA926 , Emirates Airways , Dubai , Delhi , 10000
+BA731 , British Airliner , Heathrow , London , 20000
+BA741 , British Airliner , Coimbatore , London , 13000
+VA431 , Virgin Airways , Chennai , Munich , 17000
+BA731 , British Airliner , Heathrow , London , 16000
+IA211 , Indigo Airliner , London , Coimbatore , 21000
+BA731 , Indigo Airliner , London , Coimbatore , 14000
+BA731 , Indigo Airliner , London , Coimbatore , 0
